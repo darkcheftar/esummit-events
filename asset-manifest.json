@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/esummit-events/static/css/main.b65adeff.css",
+    "main.js": "/esummit-events/static/js/main.4a817d61.js",
+    "static/js/787.c31d6300.chunk.js": "/esummit-events/static/js/787.c31d6300.chunk.js",
+    "static/media/HOOKED WITH UP DESIGN.png": "/esummit-events/static/media/HOOKED WITH UP DESIGN.f001c9395914e26cae25.png",
+    "index.html": "/esummit-events/index.html",
+    "main.b65adeff.css.map": "/esummit-events/static/css/main.b65adeff.css.map",
+    "main.4a817d61.js.map": "/esummit-events/static/js/main.4a817d61.js.map",
+    "787.c31d6300.chunk.js.map": "/esummit-events/static/js/787.c31d6300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b65adeff.css",
+    "static/js/main.4a817d61.js"
+  ]
+}
